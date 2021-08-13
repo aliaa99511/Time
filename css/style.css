@@ -1,0 +1,14 @@
+
+
+body{
+    background-color: #8080803d!important;
+}
+
+#head {
+    position: absolute;
+    top: 30%;
+    left: 35%;
+    border: 2px solid goldenrod;
+    padding: 24px 51px;
+    font-size: 50px;
+}
